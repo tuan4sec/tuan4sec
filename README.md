@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Naut
+- 👀 I’m interested in Computer Security, Binary Exploitation
